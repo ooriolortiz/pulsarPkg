@@ -1,4 +1,4 @@
-module github.com/ooriolortiz/pulsar
+module github.com/ooriolortiz/pulsarPkg
 
 go 1.17
 
