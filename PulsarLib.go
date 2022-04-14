@@ -1,4 +1,4 @@
-package PulsarLib
+package github.com/ooriolortiz/pulsarPkg
 
 import (
 	"context"
